@@ -1,9 +1,3 @@
-
-### **2️⃣ README für das Backend (`README-Backend.md`)**
-Das Backend verwaltet die Benutzer-Authentifizierung und andere serverseitige Funktionen.  
-
-**Hier kannst du schon mal schreiben:**  
-```markdown
 # Backend - My Portfolio Website
 
 ## Überblick
@@ -20,3 +14,11 @@ Dieses Backend sorgt für die Benutzer-Authentifizierung und speichert ggf. weit
    ```bash
    git clone https://github.com/deinUsername/my-portfolio.git
    cd my-portfolio/backend
+
+
+##Funktionen
+Nutzer-Login & Registrierung
+Passwortschutz für den privaten Bereich
+Datenbank-Speicherung für Benutzerinformationen
+
+
